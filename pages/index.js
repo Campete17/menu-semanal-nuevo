@@ -1,5 +1,5 @@
 import Head from "next/head";
-import MenuSemana from "../// esto es para forzar el redeplieguecomponents/MenuSemana";
+import MenuSemana from "../// redeplieguecomponents/MenuSemana";
 
 export default function Home() {
   return (
