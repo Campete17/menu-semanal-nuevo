@@ -1,5 +1,5 @@
 import Head from "next/head";
-import MenuSemana from "../components/MenuSemana";
+import MenuSemana from "../ components/MenuSemana";
 
 export default function Home() {
   return (
